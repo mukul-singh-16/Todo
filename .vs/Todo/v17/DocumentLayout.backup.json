@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\Todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\updatetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\updatetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\addtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\addtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\searchtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\searchtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\deletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\deletetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\searchtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\searchtodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|d:\\dotnet\\todo\\todo\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDDDDB9-49E7-43E2-AABA-2E57F8149275}|Todo\\Todo.csproj|solutionrelative:todo\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchTodo.cs",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\SearchTodo.cs",
+              "RelativeDocumentMoniker": "Todo\\SearchTodo.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\SearchTodo.cs*",
+              "RelativeToolTip": "Todo\\SearchTodo.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:55:48.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTodo.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\AddTodo.cs",
+              "RelativeDocumentMoniker": "Todo\\AddTodo.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\AddTodo.cs [Design]*",
+              "RelativeToolTip": "Todo\\AddTodo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:39:32.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTodo.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\DeleteTodo.cs",
+              "RelativeDocumentMoniker": "Todo\\DeleteTodo.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\DeleteTodo.cs [Design]*",
+              "RelativeToolTip": "Todo\\DeleteTodo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:36:11.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchTodo.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\SearchTodo.cs",
+              "RelativeDocumentMoniker": "Todo\\SearchTodo.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\SearchTodo.cs [Design]*",
+              "RelativeToolTip": "Todo\\SearchTodo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:40:14.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTodo.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\UpdateTodo.cs",
+              "RelativeDocumentMoniker": "Todo\\UpdateTodo.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\UpdateTodo.cs [Design]*",
+              "RelativeToolTip": "Todo\\UpdateTodo.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:28:14.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\Home.cs",
+              "RelativeDocumentMoniker": "Todo\\Home.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\Home.cs [Design]",
+              "RelativeToolTip": "Todo\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:30:38.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Todo\\Home.Designer.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\Home.Designer.cs",
+              "RelativeToolTip": "Todo\\Home.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:28:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\dotnet\\Todo\\Todo\\Home.cs",
+              "RelativeDocumentMoniker": "Todo\\Home.cs",
+              "ToolTip": "D:\\dotnet\\Todo\\Todo\\Home.cs",
+              "RelativeToolTip": "Todo\\Home.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:40:34.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
