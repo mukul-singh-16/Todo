@@ -34,7 +34,7 @@ namespace Todo
             try
             {
                 // Update the database (example using Npgsql for PostgreSQL)
-                string connectionString = "Host=your_host;Username=your_user;Password=your_password;Database=your_database";
+                string connectionString = "Host=localhost;Port=5432;Database=Tododb;Username=postgres;Password=1234";
 
                 using (var connection = new Npgsql.NpgsqlConnection(connectionString))
                 {
@@ -67,5 +67,9 @@ namespace Todo
             }
         }
 
+        private void UpdateTodo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

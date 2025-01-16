@@ -83,6 +83,7 @@
             Controls.Add(Heading);
             Name = "DeleteTodo";
             Text = "DeleteTodo";
+            Load += DeleteTodo_Load;
             ResumeLayout(false);
             PerformLayout();
         }

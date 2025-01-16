@@ -94,6 +94,7 @@
             Controls.Add(Heading);
             Name = "UpdateTodo";
             Text = "UpdateTodo";
+            Load += UpdateTodo_Load;
             ResumeLayout(false);
             PerformLayout();
         }

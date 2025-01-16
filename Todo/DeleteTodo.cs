@@ -32,7 +32,7 @@ namespace Todo
             }
 
             // DB string
-            string connectionString = "Host=localhost;Port=5432;Database=TodoApp;Username=postgres;Password=yourpassword";
+            string connectionString = "Host=localhost;Port=5432;Database=Tododb;Username=postgres;Password=1234";
 
             try
             {
@@ -72,6 +72,11 @@ namespace Todo
         {
             userName.Text = string.Empty;
             todoTitle.Text = string.Empty;
+        }
+
+        private void DeleteTodo_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

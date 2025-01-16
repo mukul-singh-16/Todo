@@ -93,6 +93,7 @@
             Controls.Add(Heading);
             Name = "AddTodo";
             Text = "AddTodo";
+            Load += AddTodo_Load;
             ResumeLayout(false);
             PerformLayout();
         }
