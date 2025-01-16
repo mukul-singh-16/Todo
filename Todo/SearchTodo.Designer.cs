@@ -63,6 +63,7 @@
             search.TabIndex = 9;
             search.Text = "Search";
             search.UseVisualStyleBackColor = true;
+            search.Click += search_Click_1;
             // 
             // menuStrip1
             // 
@@ -96,6 +97,7 @@
             Name = "SearchTodo";
             Text = "SearchTodo";
             Load += SearchTodo_Load;
+            Click += search_Click;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -56,6 +56,7 @@
             todoSubmit.TabIndex = 14;
             todoSubmit.Text = "Update  Todo";
             todoSubmit.UseVisualStyleBackColor = true;
+            todoSubmit.Click += todoSubmit_Click;
             // 
             // todoDesc
             // 

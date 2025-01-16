@@ -79,6 +79,7 @@
             todoSubmit.TabIndex = 10;
             todoSubmit.Text = "Submit";
             todoSubmit.UseVisualStyleBackColor = true;
+            todoSubmit.Click += todoSubmit_Click;
             // 
             // AddTodo
             // 

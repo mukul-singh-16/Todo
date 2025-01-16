@@ -70,6 +70,7 @@
             delete.TabIndex = 10;
             delete.Text = "Delete";
             delete.UseVisualStyleBackColor = true;
+            delete.Click += delete_Click;
             // 
             // DeleteTodo
             // 
